@@ -1,0 +1,14 @@
+## Interface: 11508, 20504, 20505, 30405, 38000, 40402, 50503, 110207, 120000, 120001
+## Title: Masque: FFXIV
+## Version: 1.0
+## Author: MojiTheMonk
+## Notes: FFXIV skin for Masque.
+## Dependencies: Masque
+## X-Category: Interface Enhancements
+
+
+## IconTexture: Interface\AddOns\Masque_FFXIV\Textures\Icon.png
+
+FFXIV.lua
+FFXIVBuffs.lua
+FFXIVDebuffs.lua
